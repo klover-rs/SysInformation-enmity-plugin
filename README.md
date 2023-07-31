@@ -13,19 +13,14 @@ If you just want to use the plugin without building it yourself, you can find th
 ## How to Build
 
 1. Open your terminal (or command prompt) and navigate to the repository directory:
-
    ```bash
    cd /path/to/your/repo
-
+   ```
 2. Install dependencies using npm:
-
    ```js
    npm i
-
+   ```
 3. Build the plugin
-
    ```js
    npm run build
-
-
-
+   ```
