@@ -14,7 +14,7 @@ If you just want to use the plugin without building it yourself, you can find th
 
 1. Open your terminal (or command prompt) and navigate to the repository directory:
    ```bash
-   cd /path/to/your/repo
+   cd /path/to/the/repo
    ```
 2. Install dependencies using npm:
    ```js
