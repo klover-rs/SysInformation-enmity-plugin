@@ -1,0 +1,11 @@
+{
+   "name": "SysInformation",
+   "version": "1.0.0",
+   "description": "This command shows your discord debug datas, but in an embed for yourself",
+   "authors": [
+      {
+         "name": "okanimo.",
+         "id": "629214478902231041"
+      }
+   ]
+}
