@@ -4,7 +4,7 @@ This is a plugin for the Enmity Discord client mod that displays simple debug in
 
 ## Prebuilt Version
 
-If you just want to use the plugin without building it yourself, you can find the prebuilt version in the "prebuilt" folder.
+If you just want to use the plugin without building it yourself, you can find the prebuilt version in the "src/dist" folder.
 
 ## Requirements for Building
 
